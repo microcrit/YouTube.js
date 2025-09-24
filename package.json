@@ -1,5 +1,5 @@
 {
-  "name": "youtubei.js",
+  "name": "youtubei.js-type-copy",
   "version": "15.1.1",
   "description": "A JavaScript client for YouTube's private API, known as InnerTube.",
   "type": "module",
